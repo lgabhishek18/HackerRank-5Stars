@@ -1,3 +1,7 @@
+/**
+ * @author Abhishek Gupta
+ *
+ */
 import java.util.Scanner;
 public class Solution 
 {
